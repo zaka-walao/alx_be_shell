@@ -1,0 +1,4 @@
+#!/bin/bash
+#switch to user betty
+su -l betty
+
